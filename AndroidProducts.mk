@@ -15,4 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_kenzo.mk \
-    $(LOCAL_DIR)/arrow_kenzo.mk
+     $(LOCAL_DIR)/carbon_kenzo.mk
